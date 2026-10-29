@@ -9,10 +9,6 @@ Galeria de infográficos — atlas, salmos e mapas visuais para o ensino da Pala
 - App feito em página web; abre direto no navegador.
 - Os dados ficam salvos no Supabase, por isso aparecem iguais em todos os aparelhos.
 
-## Observações
-
-- Este repositório é **idêntico** ao `galeria`, arquivo por arquivo.
-
 ## Como publicar uma nova versão
 
 1. Nesta página do repositório, clique em **Add file → Upload files**.
